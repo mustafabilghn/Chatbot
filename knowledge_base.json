@@ -1,0 +1,16 @@
+{
+  "questions": [
+    {
+      "question": "What is the capital of Turkey?",
+      "answer": "Ankara"
+    },
+    {
+      "question": "Hello",
+      "answer": "Hello there, how can I help you today?"
+    },
+    {
+      "question": "what is your name",
+      "answer": "My name is ChatBot, and what is your name?"
+    }
+  ]
+}

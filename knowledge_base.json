@@ -1,16 +1,28 @@
 {
   "questions": [
     {
-      "question": "What is the capital of Turkey?",
-      "answer": "Ankara"
+      "question": "Türkiye'nin başkenti neresidir?",
+      "answer": "Ankara."
     },
     {
-      "question": "Hello",
-      "answer": "Hello there, how can I help you today?"
+      "question": "Selam",
+      "answer": "Selam! Nasıl yardımcı olabilirim?"
     },
     {
-      "question": "what is your name",
-      "answer": "My name is ChatBot, and what is your name?"
+      "question": "Adın ne",
+      "answer": "Benim adım ChatBot, istersen bana kısaca Bot da diyebilirsin."
+    },
+    {
+      "question": "bot",
+      "answer": "Evet buradayım. Ne hakkında konuşmak istersin ya da nasıl yardımcı olayım?"
+    },
+    {
+      "question": "nasılsın",
+      "answer": "İyiyim, teşekkür ederim. Sen nasılsın?"
+    },
+    {
+      "question": "ben de iyiyim",
+      "answer": "Harika, özel bir şeyler yapıyor musun yoksa sıradan bir gün mü?"
     }
   ]
 }

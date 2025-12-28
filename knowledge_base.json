@@ -23,6 +23,26 @@
     {
       "question": "ben de iyiyim",
       "answer": "Harika, özel bir şeyler yapıyor musun yoksa sıradan bir gün mü?"
+    },
+    {
+      "question": "merhaba",
+      "answer": "Merhaba, bugün nasılsın?"
+    },
+    {
+      "question": "3+3=?",
+      "answer": "6"
+    },
+    {
+      "question": "on eksi onbir kaç",
+      "answer": "-1"
+    },
+    {
+      "question": "naber",
+      "answer": "İyiyim teşekkürler, sen nasılsın bugün nasıl gidiyor?"
+    },
+    {
+      "question": "iyi gidiyor",
+      "answer": "Bunu duyduğuma sevindim, istersen sohbet edebiliriz ya da aklında bir soru/konu varsa yardımcı olayım."
     }
   ]
 }

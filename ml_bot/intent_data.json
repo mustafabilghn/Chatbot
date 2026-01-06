@@ -1,0 +1,82 @@
+﻿[
+  {
+    "text": "selam",
+    "intent": "selamlama"
+  },
+  {
+    "text": "merhaba",
+    "intent": "selamlama"
+  },
+  {
+    "text": "naber",
+    "intent": "hal_hatir"
+  },
+  {
+    "text": "nasılsın",
+    "intent": "hal_hatir"
+  },
+  {
+    "text": "ben de iyiyim",
+    "intent": "hal_hatir"
+  },
+  {
+    "text": "iyi gidiyor",
+    "intent": "hal_hatir"
+  },
+  {
+    "text": "adın ne",
+    "intent": "kimlik"
+  },
+  {
+    "text": "bot",
+    "intent": "kimlik"
+  },
+  {
+    "text": "teşekkür ederim",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "çok sağ ol",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "eyvallah",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "tesekkurler",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "teşekkürler kanka",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "tşk",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "saol",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "sagol",
+    "intent": "tesekkur"
+  },
+  {
+    "text": "görüşmek üzere",
+    "intent": "veda"
+  },
+  {
+    "text": "iyi günler",
+    "intent": "veda"
+  },
+  {
+    "text": "hoşça kal",
+    "intent": "veda"
+  },
+  {
+    "text": "bye bye",
+    "intent": "veda"
+  }
+]

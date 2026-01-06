@@ -2,47 +2,114 @@
   "questions": [
     {
       "question": "Türkiye'nin başkenti neresidir?",
-      "answer": "Ankara."
+      "answer": "Ankara.",
+      "normalized_question": "turkiyenin baskenti neresidir"
     },
     {
       "question": "Selam",
-      "answer": "Selam! Nasıl yardımcı olabilirim?"
+      "answer": "Selam! Nasıl yardımcı olabilirim?",
+      "normalized_question": "selam"
     },
     {
       "question": "Adın ne",
-      "answer": "Benim adım ChatBot, istersen bana kısaca Bot da diyebilirsin."
+      "answer": "Benim adım ChatBot, istersen bana kısaca Bot da diyebilirsin.",
+      "normalized_question": "adin ne"
     },
     {
       "question": "bot",
-      "answer": "Evet buradayım. Ne hakkında konuşmak istersin ya da nasıl yardımcı olayım?"
+      "answer": "Evet buradayım. Ne hakkında konuşmak istersin ya da nasıl yardımcı olayım?",
+      "normalized_question": "bot"
     },
     {
       "question": "nasılsın",
-      "answer": "İyiyim, teşekkür ederim. Sen nasılsın?"
+      "answer": "İyiyim, teşekkür ederim. Sen nasılsın?",
+      "normalized_question": "nasilsin"
     },
     {
       "question": "ben de iyiyim",
-      "answer": "Harika, özel bir şeyler yapıyor musun yoksa sıradan bir gün mü?"
+      "answer": "Harika, özel bir şeyler yapıyor musun yoksa sıradan bir gün mü?",
+      "normalized_question": "ben de iyiyim"
     },
     {
       "question": "merhaba",
-      "answer": "Merhaba, bugün nasılsın?"
+      "answer": "Merhaba, bugün nasılsın?",
+      "normalized_question": "merhaba"
     },
     {
       "question": "3+3=?",
-      "answer": "6"
+      "answer": "6",
+      "normalized_question": "33"
     },
     {
       "question": "on eksi onbir kaç",
-      "answer": "-1"
+      "answer": "-1",
+      "normalized_question": "on eksi onbir kac"
     },
     {
       "question": "naber",
-      "answer": "İyiyim teşekkürler, sen nasılsın bugün nasıl gidiyor?"
+      "answer": "İyiyim teşekkürler, sen nasılsın bugün nasıl gidiyor?",
+      "normalized_question": "naber"
     },
     {
       "question": "iyi gidiyor",
-      "answer": "Bunu duyduğuma sevindim, istersen sohbet edebiliriz ya da aklında bir soru/konu varsa yardımcı olayım."
+      "answer": "Bunu duyduğuma sevindim, istersen sohbet edebiliriz ya da aklında bir soru/konu varsa yardımcı olayım.",
+      "normalized_question": "iyi gidiyor"
+    },
+    {
+      "question": "ne yapiyorsun",
+      "answer": "Buradayım, seninle sohbet ediyorum 😊 Peki ya sen, ne yapıyorsun?"
+    },
+    {
+      "question": "iyi",
+      "answer": "Bunu duyduğuma sevindim."
+    },
+    {
+      "question": "iyiyim sen",
+      "answer": "Teşekkürler, ben de iyiyim. "
+    },
+    {
+      "question": "oturuyorum",
+      "answer": "Anladım, peki bugün için başka bir planın var mı?"
+    },
+    {
+      "question": "yok",
+      "answer": "Tamam öyleyse."
+    },
+    {
+      "question": "sıradan",
+      "answer": "Peki öyleyse."
+    },
+    {
+      "question": "kimsin",
+      "answer": "Ben ChatBot'um - sorularını yanıtlamak, bilgi vermek ve birlikte düşünmek için buradayım."
+    },
+    {
+      "question": "kaç yaşındasın",
+      "answer": "Bir yaşım yok. Ben bir yapay zekayım, insanlar gibi doğup büyümüyorum."
+    },
+    {
+      "question": "hangi dilde yazıldın?",
+      "answer": "Ben Python yazılım dili ile yazıldım."
+    },
+    {
+      "question": "nelerden hoşlanırsın?",
+      "answer": "Benim gerçek duygularım ya da zevklerim yok ama karşımdakinin neyle ilgilendiğini keşfetmeyi severim. Peki sen nelerden hoşlanırsın?"
+    },
+    {
+      "question": "spor yapmaktan",
+      "answer": "Güzel 👍 Spor yapmak hem beden hem zihin için çok iyi."
+    },
+    {
+      "question": "görüşürüz",
+      "answer": "Görüşürüz 👋\nNe zaman istersen buradayım. Kendine iyi bak!"
+    },
+    {
+      "question": "güzel",
+      "answer": "Ne güzel, sevindim 😊"
+    },
+    {
+      "question": "napıyon kanka",
+      "answer": "Buradayım kanka, seninle sohbet ediyorum, sen ne yapıyorsun?"
     }
   ]
 }
